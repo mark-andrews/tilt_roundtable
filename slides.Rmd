@@ -1,0 +1,38 @@
+---
+title: "Writing a Textbook"
+author: "Mark Andrews"
+date: "25th April, 2023"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## The textbook I wrote
+
+* [*Doing Data Science in R: An Introduction for Social Scientists*](https://www.mjandrews.org/book/ddsr/)
+* Published by SAGE, March 2021.
+* Aimed at those doing scientific data analysis at relatively advanced levels; PhD level and upwards
+* Officially aimed at social scientists (see below), but more generally applicable.
+* 17 Chapters, approximately 600 pages.
+
+## Why I wrote it?
+
+* In general, because I always wanted to write textbooks, and this is how I began.
+* In particular, because I wanted textbooks that were ideally suited for the all the teaching/training I did.
+
+## Timeline etc
+
+* Wrote proposal in May 2018.
+* Contract signed in October 2018.
+* Delivery of first batch of chapters March 2019, and more in September 2020.
+* By contract, all chapters were to be delivered in May 2020, but were not delivered till August 2020.
+* Proof checking and indexing in early 2021.
+* In print in March 2021.
+
+## Some lessons learned
+
+* Writing a textbook is *hugely* time consuming.
+* The submission/review/revision/publication is very different to the normal peer reviewed publication processed.
+* Textbooks are very compatible with open-access/open-science practice.
