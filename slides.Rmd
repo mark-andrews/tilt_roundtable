@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * [*Doing Data Science in R: An Introduction for Social Scientists*](https://www.mjandrews.org/book/ddsr/)
 * Published by SAGE, March 2021.
 * Aimed at those doing scientific data analysis at relatively advanced levels; PhD level and upwards
-* Officially aimed at social scientists (see below), but more generally applicable.
+* Officially aimed at social scientists, but more generally applicable.
 * 17 Chapters, approximately 600 pages.
 
 ## Why I wrote it?
